@@ -1,0 +1,13 @@
+[submodule "Plugins/ue4-targetsystemplugin"]
+	path = Plugins/ue4-targetsystemplugin
+	url = https://github.com/Ciberusps/ue4-targetsystemplugin
+[submodule "Plugins/UnrealHelperLibrary"]
+	path = Plugins/UnrealHelperLibrary
+	url = https://github.com/ciberusps/unreal-helper-library
+[submodule "Plugins/Wwise"]
+	path = Plugins/Wwise
+	url = https://github.com/ciberusgg/Wwise
+	branch = UE5.4
+[submodule "Plugins/DamageBehaviorsSystem"]
+	path = Plugins/DamageBehaviorsSystem
+	url = https://github.com/Ciberusps/DamageBehaviorsSystem.git
